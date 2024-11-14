@@ -1,6 +1,6 @@
 Here's a creative and comprehensive `README.md` for provisioning an EKS (Elastic Kubernetes Service) cluster on AWS using Terraform. This template includes all the necessary steps, but also adds some flair to make it more engaging.
 
----
+----
 
 # Terraform EKS Cluster Provisioning
 

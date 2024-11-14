@@ -49,8 +49,8 @@ Before you get started, make sure you have the following installed:
 Start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/terraform-eks-cluster.git
-cd terraform-eks-cluster
+git clone https://github.com/ssupshub/EKS-cluster-with-terraform.git
+cd EKS-cluster-with-terraform
 ```
 
 ### 2. Configure AWS Credentials
